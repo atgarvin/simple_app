@@ -1,1 +1,1 @@
-# simple_app
+# simple android app
